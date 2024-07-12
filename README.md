@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzekielMedina
-- 👀 I’m interested in coding, becoming smarter and computers
-- 🌱 I’m currently full stack development
+- 👀 I’m interested in Python  
+- 🌱 I’m currently mastering python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ezekieldev01@gmail.com
 
